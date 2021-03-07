@@ -2,6 +2,18 @@
 
 ![alt text](https://github.com/hadhemigharbi/App-todo/blob/main/img.PNG)
 
+## Project Description
+Required tech:
+- Local storage
+- Vue3 composition API
+- Tailwind
+Required features:
+- Validation: - Max 200 chars / min 20 chars.
+- Special characters are not allowed.
+- Every task starts with Upper case.
+- A task should include checkbox, text and edit/remove buttons
+- Mark tasks as done (line through) by checking them.
+
 ## Project setup
 ```
 npm install
