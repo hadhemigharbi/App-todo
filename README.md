@@ -9,7 +9,7 @@
 
 ## Project Description
 ### Required tech:
-- Local storage
+- Local Storage
 - Vue3 composition API
 - Tailwind
 
