@@ -1,6 +1,6 @@
 # mini-project
 
-![alt text](https://github.com/hadhemigharbi/App-todo/blob/main/img.PNG)
+![alt text](https://github.com/hadhemigharbi/App-todo/blob/main/image.PNG)
 
 ## Project Description
 ### Required tech:
