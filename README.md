@@ -1,5 +1,7 @@
 # mini-project
 
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
+
 ![alt text](https://github.com/hadhemigharbi/App-todo/blob/main/image.PNG)
 
 ## Project Description
