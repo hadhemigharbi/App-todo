@@ -1,5 +1,7 @@
 # mini-project
 
+![alt text](./img.png)
+
 ## Project setup
 ```
 npm install
