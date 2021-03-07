@@ -1,6 +1,6 @@
 # mini-project
 
-![alt text](./img.png)
+![alt text](https://github.com/hadhemigharbi/App-todo/blob/main/img.PNG)
 
 ## Project setup
 ```
